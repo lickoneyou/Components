@@ -1,5 +1,5 @@
-import { Nav } from "./Nav";
-import { SearchBar } from "./SearchBar";
+import { Nav } from './Nav'
+import { SearchBar } from './SearchBar'
 
 export function Header() {
   return (
