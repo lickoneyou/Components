@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
+import { Header } from './components/header';
 import { SearchBar } from './components/SearchBar';
 
 function App() {
   return (
-    <div className="App">
-<SearchBar></SearchBar>
-    </div>
+  <Header></Header>
   );
 }
 

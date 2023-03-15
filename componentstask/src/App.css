@@ -1,4 +1,12 @@
 .searchBarInput{
   border: 2px solid purple;
   border-radius: 10px;
+  width: 50%;
+    height: 80%;
+}
+
+header{
+background-color: yellowgreen;
+height: 30px;
+padding: 10px;
 }
