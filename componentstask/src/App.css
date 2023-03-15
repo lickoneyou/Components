@@ -6,7 +6,20 @@
 }
 
 header{
+  display: flex;
 background-color: yellowgreen;
 height: 30px;
 padding: 10px;
+border-radius: 10px;
+}
+
+nav > a{
+margin-left: 10px;
+text-decoration: none;
+font-size: 20px;
+text-align: center;
+color: black;
+}
+nav > a:hover{
+  color: white;
 }
